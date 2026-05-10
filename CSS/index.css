@@ -6,6 +6,30 @@
     padding-right: 3%;
     padding-top: 2pc;
 
+
+
+}
+
+.desc{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 60%;
+  padding-top: 1.5% ;
+  padding-left: 2%;
+  position: absolute;
+  width:25%; 
+}
+.precio{
+  text-align: right;
+  float:right ;
+}
+.card-text{
+  
+    text-align: left;
+  float:left ;
+}
+.card{
+     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease;
 }
 
 
